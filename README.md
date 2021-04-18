@@ -21,7 +21,7 @@ Contaminated outdoor air quality is ubiquitously found in larger cities and is o
 
 ### Circuit Connection ###
 
-<p align="center">
+<p align="left">
   <img width="600" height="500" src="https://user-images.githubusercontent.com/43854300/115136943-c053ca80-a040-11eb-9d32-26f75beda5aa.PNG"
 </p>
 
